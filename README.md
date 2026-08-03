@@ -5,7 +5,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Stars](https://img.shields.io/github/stars/xhqing/PersonalAssistantAgent?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/xhqing/PersonalAssistantAgent)
-![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-19C37D)
 ![AI Agent](https://img.shields.io/badge/Type-AI%20Agent-FF1493)
 
 </div>
