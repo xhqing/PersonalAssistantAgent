@@ -3,7 +3,6 @@
 <img src="assets/logo.svg" width="640" alt="Kit logo" />
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Stars](https://img.shields.io/github/stars/xhqing/PersonalAssistantAgent?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/xhqing/PersonalAssistantAgent)
 ![AI Agent](https://img.shields.io/badge/Type-AI%20Agent-FF1493)
 
