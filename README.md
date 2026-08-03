@@ -11,28 +11,26 @@
 
 # PersonalAssistantAgent · Kit
 
-> **个人助理** — 通用助手，处理琐碎事。一把随身瑞士军刀。
->
-> **Personal Assistant** — A general-purpose helper for the miscellaneous, one-off tasks that don't warrant a dedicated agent.
+> **Kit** — A general-purpose personal assistant. A pocket Swiss Army knife for the miscellaneous, one-off tasks that don't warrant a dedicated agent.
 
-**拟人名 / Persona：Kit**（工具箱 · 什么琐碎事都能搞定）
+[简体中文](README_cn.md)
 
 ---
 
-## 职责 / What it does
+## What it does
 
-处理杂项：查资料、整理信息、写邮件 / 文案、做表格、转换格式、跑小脚本、定提醒等。销售流水线的活推荐给对应专家 agent（Scout / Wright / Buzz / Vendy / Echo）。
+Handles the odds and ends: research, organizing information, drafting emails and copy, spreadsheets, format conversion, small scripts, reminders, and answers to all kinds of questions. Anything that belongs to the sales pipeline (sourcing, production, marketing, closing, review) is referred to the specialist agents (Scout / Wright / Buzz / Vendy / Echo).
 
-Handles the odds and ends: research, info organizing, drafting, spreadsheets, format conversion, small scripts, reminders, etc. Sales-pipeline work gets referred to the specialist agents.
+## Built-in skills
 
-## 内置能力 / Built-in skills
+- `anysearch` · `find-skill` — general search and skill discovery
 
-- `anysearch` · `find-skill` — 通用搜索与技能发现
+## Constraints
 
-## 约束 / Constraints
+General working discipline: read before touching files, prefer adding and editing over deleting, verify before reporting, and keep temporary artifacts in `tmp/`.
 
-通用工作纪律（读取优先、增改查优先慎用删除、汇报前验证、临时产物放 `tmp/`）。
+## License & Attribution
 
-## License
+Copyright (c) 2026 All Contributors. Licensed under the [MIT License](LICENSE.md).
 
-MIT
+If this project is useful to you, attribution is appreciated: preserve the copyright notice and link back to [PersonalAssistantAgent](https://github.com/xhqing/PersonalAssistantAgent).
